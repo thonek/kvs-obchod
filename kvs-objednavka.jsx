@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from "react";
 
 // ─── CONFIG ──────────────────────────────────────────────────────────
 // Po nasazení Google Apps Script sem vložte URL vašeho webového endpointu:
-const API_URL = ""; // např. "https://script.google.com/macros/s/ABCDEF.../exec"
+const API_URL = "https://script.google.com/macros/s/AKfycbzSfOyYHQYzUrH7K9e_prGsND8gjiq-joSNWxFZZltS4sVuA3olE36eiS0RapV271RR6g/exec"; // např. "https://script.google.com/macros/s/ABCDEF.../exec"
 // Pokud je prázdný, aplikace běží v offline/demo režimu s local storage
 // ─────────────────────────────────────────────────────────────────────
 
